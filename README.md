@@ -14,7 +14,7 @@ It demonstrates essential programming concepts such as:
 - Functions  
 - User input handling  
 
-The project also showcases the use of Git for version control.
+
 
 ---
 
